@@ -1,0 +1,22 @@
+C:\Users\Damian Wojtyniak\source\repos\Strategy\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\Damian Wojtyniak\source\repos\Strategy\Strategy\bin\Debug\Strategy.exe
+C:\Users\Damian Wojtyniak\source\repos\Strategy\Strategy\bin\Debug\Strategy.pdb
+C:\Users\Damian Wojtyniak\source\repos\Strategy\Strategy\obj\Debug\Strategy.Form1.resources
+C:\Users\Damian Wojtyniak\source\repos\Strategy\Strategy\obj\Debug\Strategy.Properties.Resources.resources
+C:\Users\Damian Wojtyniak\source\repos\Strategy\Strategy\obj\Debug\Strategy.csproj.GenerateResource.cache
+C:\Users\Damian Wojtyniak\source\repos\Strategy\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\Damian Wojtyniak\source\repos\Strategy\Strategy\obj\Debug\Strategy.exe
+C:\Users\Damian Wojtyniak\source\repos\Strategy\Strategy\obj\Debug\Strategy.pdb
+C:\Users\Damian Wojtyniak\source\repos\Strategy\Strategy\obj\Debug\Strategy.csprojAssemblyReference.cache
+C:\Users\Damian Wojtyniak\source\repos\Strategy\Strategy\obj\Debug\Strategy.TBoard.resources
+D:\Dropbox\Studia_Informatyka_PK_2020\SEMESTR_I\Animacje_i_gry_komputerowe\Repozytoria\Strategy\Strategy\bin\Debug\Strategy.exe.config
+D:\Dropbox\Studia_Informatyka_PK_2020\SEMESTR_I\Animacje_i_gry_komputerowe\Repozytoria\Strategy\Strategy\bin\Debug\Strategy.exe
+D:\Dropbox\Studia_Informatyka_PK_2020\SEMESTR_I\Animacje_i_gry_komputerowe\Repozytoria\Strategy\Strategy\bin\Debug\Strategy.pdb
+D:\Dropbox\Studia_Informatyka_PK_2020\SEMESTR_I\Animacje_i_gry_komputerowe\Repozytoria\Strategy\Strategy\obj\Debug\Strategy.csprojAssemblyReference.cache
+D:\Dropbox\Studia_Informatyka_PK_2020\SEMESTR_I\Animacje_i_gry_komputerowe\Repozytoria\Strategy\Strategy\obj\Debug\Strategy.Form1.resources
+D:\Dropbox\Studia_Informatyka_PK_2020\SEMESTR_I\Animacje_i_gry_komputerowe\Repozytoria\Strategy\Strategy\obj\Debug\Strategy.Properties.Resources.resources
+D:\Dropbox\Studia_Informatyka_PK_2020\SEMESTR_I\Animacje_i_gry_komputerowe\Repozytoria\Strategy\Strategy\obj\Debug\Strategy.TBoard.resources
+D:\Dropbox\Studia_Informatyka_PK_2020\SEMESTR_I\Animacje_i_gry_komputerowe\Repozytoria\Strategy\Strategy\obj\Debug\Strategy.csproj.GenerateResource.cache
+D:\Dropbox\Studia_Informatyka_PK_2020\SEMESTR_I\Animacje_i_gry_komputerowe\Repozytoria\Strategy\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+D:\Dropbox\Studia_Informatyka_PK_2020\SEMESTR_I\Animacje_i_gry_komputerowe\Repozytoria\Strategy\Strategy\obj\Debug\Strategy.exe
+D:\Dropbox\Studia_Informatyka_PK_2020\SEMESTR_I\Animacje_i_gry_komputerowe\Repozytoria\Strategy\Strategy\obj\Debug\Strategy.pdb
